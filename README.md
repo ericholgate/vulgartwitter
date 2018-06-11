@@ -17,10 +17,10 @@ is different then you can change it using the flag `--data_set`. `clean_data.py`
 After cleaning data, run `bilstm.py`
 
 **Required parameters:**
-- train= <path to training data set>
-- validation_data= <path to validation data set>
-- initial_embed_weights= <path to initial embedding weights>
-- prefix= <prefix to save model>
+- train=path to training data set
+- validation_data=path to validation data set
+- initial_embed_weights=path to initial embedding weights
+- prefix=prefix to save model
 
 **Optional parameters:**
 - rnndim=<rnn dimension, default=128>
