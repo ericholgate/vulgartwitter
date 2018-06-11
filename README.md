@@ -5,8 +5,7 @@ A bi-LSTM that predicts sentiment values, utilizing vulgarity features.
 **The three possible vulgarity features are:**
 (1) Masking
 (2) Insertion
-(3) Concatenation
-Please refer to <insert link> for details.
+(3) Concatenations
 
 First, run `clean_data.py` to prepare data set for modeling.
 `clean_data.py` automatically uses the path `./data/coling_twitter_data.tsv` to the original data set but if your file path
