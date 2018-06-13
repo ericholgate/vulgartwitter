@@ -1,5 +1,7 @@
 # Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media
 
+*Use of the data presented here must abide by the Twitter Terms of Service and Developer Policy*
+
 A bi-LSTM that predicts sentiment values, utilizing vulgarity features.
 
 **The three possible vulgarity features are:**
