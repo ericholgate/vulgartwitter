@@ -1,5 +1,16 @@
 # Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media
 
+**Citation:
+```
+@InProceedings{cachola2018vulgar,
+  author    = {Cachola, Isabel  and  Holgate, Eric  and  Preo\c{t}iuc-Pietro, Daniel  and  Li, Junyi Jessy},
+  title     = {Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media},
+  booktitle = {Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: Technical Papers},
+  year      = {2018},
+  pages     = {to appear},
+}
+```
+
 *Use of the data presented here must abide by the Twitter Terms of Service and Developer Policy*
 
 A bi-LSTM that predicts sentiment values, utilizing vulgarity features.
