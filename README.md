@@ -1,6 +1,6 @@
 # Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media
 
-**Citation:
+**Citation:**
 ```
 @InProceedings{cachola2018vulgar,
   author    = {Cachola, Isabel  and  Holgate, Eric  and  Preo\c{t}iuc-Pietro, Daniel  and  Li, Junyi Jessy},
