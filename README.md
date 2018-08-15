@@ -5,9 +5,9 @@
 @InProceedings{cachola2018vulgar,
   author    = {Cachola, Isabel  and  Holgate, Eric  and  Preo\c{t}iuc-Pietro, Daniel  and  Li, Junyi Jessy},
   title     = {Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media},
-  booktitle = {Proceedings of COLING 2018, the 27th International Conference on Computational Linguistics: Technical Papers},
+  booktitle = {Proceedings of the 27th International Conference on Computational Linguistics},
   year      = {2018},
-  pages     = {to appear},
+  pages     = {2927--2938},
 }
 ```
 
