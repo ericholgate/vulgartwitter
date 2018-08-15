@@ -1,5 +1,7 @@
 # Expressively vulgar: The socio-dynamics of vulgarity and its effects on sentiment analysis in social media
 
+**[Please check this paper for details regarding annotation and modeling](http://aclweb.org/anthology/C18-1248)**
+
 **Citation:**
 ```
 @InProceedings{cachola2018vulgar,
@@ -8,6 +10,7 @@
   booktitle = {Proceedings of the 27th International Conference on Computational Linguistics},
   year      = {2018},
   pages     = {2927--2938},
+  url       = {http://aclweb.org/anthology/C18-1248},
 }
 ```
 
