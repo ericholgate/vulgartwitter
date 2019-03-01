@@ -38,6 +38,7 @@ After cleaning data, run `bilstm.py`
 - initial_embed_weights=path to initial embedding weights
 - prefix=prefix to save model
 
+For initial embedding weights, we use [200d CBOW embeddings pre-trained on 50M tweets (Astudillo et al., 2015).](https://www.l2f.inesc-id.pt/~wlin/public/embeddings/)
 **Optional parameters:**
 - rnndim=<rnn dimension, default=128>
 - dropout=<dropout rate, default=0.2>
